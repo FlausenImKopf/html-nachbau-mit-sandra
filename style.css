@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "ojuju";
+  src: url("ojuju-v1-latin-regular.woff2") format("woff2");
+}
+html {
+  font-size: 1rem;
+  font-family: ojuju sans-serif;
+}
