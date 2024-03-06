@@ -3,7 +3,7 @@
   font-family: "Madimi One";
   font-style: normal;
   font-weight: 400;
-  src: url("../fonts/madimi-one-v1-latin-regular.woff2") format("woff2");
+  src: url("./fonts/madimi-one-v1-latin-regular.woff2") format("woff2");
 }
 html {
   font-size: 1rem;
